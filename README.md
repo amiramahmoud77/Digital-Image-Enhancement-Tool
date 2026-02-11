@@ -61,9 +61,4 @@ Tested on sample low-quality images, the tool achieved the following improvement
 | Smoothing | 40.5 | 28.9 | -29% (noise reduction) |
 
 - Wider histograms and brighter details without artifacts.  
-- Limitations: Large images may process slowly; advanced noise models not included.  
-
-
-
-```bash
-git clone https://github.com/amiramahmoud77/Digital-Image-Enhancement-Tool.git
+- Limitations: Large images may process slowly; advanced noise models not included.
