@@ -60,5 +60,18 @@ Tested on sample low-quality images, the tool achieved the following improvement
 | Sharpening | 35.2 | 52.1 | +48% |
 | Smoothing | 40.5 | 28.9 | -29% (noise reduction) |
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Digital_ScreenShots/1.png" width="45%" />
+  <img src="Digital_ScreenShots/2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Digital_ScreenShots/3.png" width="45%" />
+  <img src="Digital_ScreenShots/4.png" width="45%" />
+</p>
+
+
 - Wider histograms and brighter details without artifacts.  
 - Limitations: Large images may process slowly; advanced noise models not included.
