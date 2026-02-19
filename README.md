@@ -62,14 +62,19 @@ Tested on sample low-quality images, the tool achieved the following improvement
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/1.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/2.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/1.jpeg" width="45%" />
+  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/2.jpeg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/3.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/4.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/3.jpeg" width="45%" />
+  <img src="https://raw.githubusercontent.com/amiramahmoud77/Digital-Image-Enhancement-Tool/main/Digital_ScreenShots/4.jpeg" width="45%" />
 </p>
+
+
+
+
+
 
 
 
